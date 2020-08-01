@@ -16,7 +16,7 @@
 
 > Showcase of image fetching components built with Angular
 
-### 🏠 [Homepage](https://github.com/zjayers/angular-image-fetch#readme)
+### 🏠 [Homepage](https://zjayers.github.io/angular-image-fetch/)
 
 ## Prerequisites
 
@@ -45,8 +45,8 @@ npm run test
 
 👤 **Zach Ayers**
 
-- Website: https://www.zachayers.io
-- Github: [@zjayers](https://github.com/zjayers)
+* Website: https://www.zachayers.io
+* Github: [@zjayers](https://github.com/zjayers)
 
 ## 🤝 Contributing
 
@@ -61,6 +61,5 @@ Give a ⭐️ if this project helped you!
 Copyright © 2020 [Zach Ayers](https://github.com/zjayers).<br />
 This project is [MIT](https://github.com/zjayers/angular-image-fetch/blob/master/LICENSE) licensed.
 
----
-
+***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_

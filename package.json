@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "description": "Showcase of image fetching components built with Angular",
-  "homepage": "https://github.com/zjayers/angular-image-fetch#readme",
+  "homepage": "https://zjayers.github.io/angular-image-fetch/",
   "bugs": {
     "url": "https://github.com/zjayers/angular-image-fetch/issues"
   },
